@@ -44,6 +44,24 @@ this list, feel free to submit a pull request or open an issue.
 
 ## Social Networks
 
+| Platform      | Ownership     | Key Person        | Year Started | Stock Info                                                                                 | Source Code                                                                                  |
+|---------------|---------------|-------------------|--------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Bluesky       | Private       | Jack Dorsey       | 2022         | N/A                                                                                       | [Bluesky GitHub](https://github.com/bluesky-social)                                          |
+| Facebook      | Public        | Mark Zuckerberg   | 2004         | [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)                      | Closed source                                                                               |
+| Instagram     | Public        | Kevin Systrom     | 2010         | [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)                      | Closed source                                                                               |
+| Lemmy         | Open Source   | Dessalines        | 2019         | N/A                                                                                       | [Lemmy GitHub](https://github.com/LemmyNet/lemmy)                                           |
+| LinkedIn      | Public        | Reid Hoffman      | 2003         | [MSFT on NASDAQ](https://www.nasdaq.com/market-activity/stocks/msft)                      | Closed source                                                                               |
+| Pinterest     | Public        | Ben Silbermann    | 2010         | [PINS on NYSE](https://www.nyse.com/quote/XNYS:PINS)                                      | Closed source                                                                               |
+| Reddit        | Private       | Steve Huffman     | 2005         | N/A                                                                                       | Closed source                                                                               |
+| Snapchat      | Public        | Evan Spiegel      | 2011         | [SNAP on NYSE](https://www.nyse.com/quote/XNYS:SNAP)                                      | Closed source                                                                               |
+| Threads       | Public        | Mark Zuckerberg   | 2023         | [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)                      | Closed source                                                                               |
+| TikTok        | Private       | Zhang Yiming      | 2016         | N/A                                                                                       | Closed source                                                                               |
+| Twitter (X)   | Private       | Elon Musk         | 2006         | N/A                                                                                       | Closed source                                                                               |
+| Warpcast      | Private       | Dan Romero        | 2022         | N/A                                                                                       | Closed source                                                                               |
+| WhatsApp      | Public        | Jan Koum          | 2009         | [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)                      | Closed source                                                                               |
+| YouTube       | Public        | Jawed Karim       | 2005         | [GOOGL on NASDAQ](https://www.nasdaq.com/market-activity/stocks/googl)                    | Closed source                                                                               |
+
+
 ### Bluesky
 - **Overview:** Bluesky focuses on decentralized social networking, with
   algorithms promoting user-curated feeds and customizable views.  
