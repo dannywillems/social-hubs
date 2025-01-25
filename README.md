@@ -127,7 +127,77 @@ this list, feel free to submit a pull request or open an issue.
   - **Twitter:** [@spez](https://twitter.com/spez)  
 - **Latest Updates:** [Link to updates]  
 
-... (Social Networks content continues here)
+### Snapchat
+- **Overview:** Snapchat's algorithm promotes content in the "Discover" section based on user preferences and engagement.  
+- **Ownership:** Publicly owned by Snap Inc.  
+- **Stock Info:** [SNAP on NYSE](https://www.nyse.com/quote/XNYS:SNAP)  
+- **Platform Link:** [https://snapchat.com](https://snapchat.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2011  
+- **Key Person:** Evan Spiegel (Co-Founder, CEO)  
+  - **Twitter:** [@evanspiegel](https://twitter.com/evanspiegel)  
+- **Latest Updates:** [Link to updates]  
+
+### Threads
+- **Overview:** Threads, a platform by Meta, employs algorithms similar to Instagram, prioritizing engagement and relevance to deliver personalized feeds.  
+- **Ownership:** Publicly owned by Meta Platforms, Inc.  
+- **Stock Info:** [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)  
+- **Platform Link:** [https://threads.net](https://threads.net)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2023  
+- **Key Person:** Mark Zuckerberg  
+  - **Facebook:** [Mark Zuckerberg](https://www.facebook.com/zuck)  
+  - **Instagram:** [@zuck](https://www.instagram.com/zuck)  
+- **Latest Updates:** [Link to updates]  
+
+### TikTok
+- **Overview:** TikTok's algorithm analyzes watch time, likes, shares, and user preferences to deliver tailored content on the "For You" page.  
+- **Ownership:** Privately owned by ByteDance Ltd.  
+- **Platform Link:** [https://tiktok.com](https://tiktok.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2016  
+- **Key Person:** Zhang Yiming (Founder)  
+- **Latest Updates:** [Link to updates]  
+
+### Twitter (X)
+- **Overview:** Twitter's algorithm promotes content based on relevance, recency, and engagement metrics like retweets and likes.  
+- **Ownership:** Privately owned by X Corp.  
+- **Platform Link:** [https://twitter.com](https://twitter.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2006  
+- **Key Person:** Elon Musk (Owner, CEO)  
+  - **Twitter:** [@elonmusk](https://twitter.com/elonmusk)  
+- **Latest Updates:** [Link to updates]  
+
+### Warpcast
+- **Overview:** Warpcast emphasizes decentralized communication and uses algorithms to prioritize user-chosen content within its network.  
+- **Ownership:** Privately owned by Farcaster Inc.  
+- **Platform Link:** [https://warpcast.com](https://warpcast.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2022  
+- **Key Person:** Dan Romero (Co-Founder)  
+- **Latest Updates:** [Link to updates]  
+
+### WhatsApp
+- **Overview:** While primarily a messaging app, WhatsApp's algorithm influences the prioritization of notifications and potential "broadcast" content.  
+- **Ownership:** Publicly owned by Meta Platforms, Inc.  
+- **Stock Info:** [META on NASDAQ](https://www.nasdaq.com/market-activity/stocks/meta)  
+- **Platform Link:** [https://whatsapp.com](https://whatsapp.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2009  
+- **Key Person:** Jan Koum (Co-Founder)  
+- **Latest Updates:** [Link to updates]
+
+### YouTube
+- **Overview:** YouTube uses algorithms to recommend videos based on user watch history, preferences, and engagement.  
+- **Ownership:** Publicly owned by Google LLC (Alphabet Inc.).  
+- **Stock Info:** [GOOGL on NASDAQ](https://www.nasdaq.com/market-activity/stocks/googl)  
+- **Platform Link:** [https://youtube.com](https://youtube.com)  
+- **Source Code:** Closed source.  
+- **Year Started:** 2005  
+- **Key Person:** Jawed Karim (Co-Founder)  
+  - **Twitter:** [@Jawed](https://twitter.com/jawed)  
+- **Latest Updates:** [Link to updates]
 
 ## Latest Algorithm News
 
