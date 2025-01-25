@@ -233,9 +233,4 @@ this list, feel free to submit a pull request or open an issue.
     content over static images.  
   - **Impact:** Businesses relying on image-based posts may see reduced
     engagement, while video creators gain visibility.  
-  - **Source:** [Facebook Official Blog](https://about.fb.com)  
-
-## Resources
-- [Official Documentation](#)  
-- [Developer Blogs](#)  
-- [Community Discussions](#)  
+  - **Source:** [Facebook Official Blog](https://about.fb.com)
