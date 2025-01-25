@@ -195,8 +195,7 @@ this list, feel free to submit a pull request or open an issue.
 - **Platform Link:** [https://youtube.com](https://youtube.com)  
 - **Source Code:** Closed source.  
 - **Year Started:** 2005  
-- **Key Person:** Jawed Karim (Co-Founder)  
-  - **Twitter:** [@Jawed](https://twitter.com/jawed)  
+- **Key Person:** Jawed Karim (Co-Founder)
 - **Latest Updates:** [Link to updates]
 
 ## Latest Algorithm News
