@@ -71,7 +71,7 @@ this list, feel free to submit a pull request or open an issue.
 - **Year Started:** 2022  
 - **Key Person:** Jack Dorsey  
   - **Twitter:** [@jack](https://twitter.com/jack)  
-- **Latest Updates:** [Link to updates]  
+- **Latest Updates:** [Link to updates](https://github.com/dannywillems/social-hubs/issues/1)  
 
 ### Facebook
 - **Overview:** The Facebook algorithm determines what content appears in
@@ -84,7 +84,7 @@ this list, feel free to submit a pull request or open an issue.
 - **Key Person:** Mark Zuckerberg  
   - **Facebook:** [Mark Zuckerberg](https://www.facebook.com/zuck)  
   - **Instagram:** [@zuck](https://www.instagram.com/zuck)  
-- **Latest Updates:** [Link to updates]  
+- **Latest Updates:** [Link to updates](https://github.com/dannywillems/social-hubs/issues/2)  
 
 ### Instagram
 - **Overview:** Instagram prioritizes content based on user interactions,
@@ -185,7 +185,7 @@ this list, feel free to submit a pull request or open an issue.
 - **Year Started:** 2006  
 - **Key Person:** Elon Musk (Owner, CEO)  
   - **Twitter:** [@elonmusk](https://twitter.com/elonmusk)  
-- **Latest Updates:** [Link to updates]  
+- **Latest Updates:** [Link to updates](https://github.com/dannywillems/social-hubs/issues/3) 
 
 ### Warpcast
 - **Overview:** Warpcast emphasizes decentralized communication and uses algorithms to prioritize user-chosen content within its network.  
